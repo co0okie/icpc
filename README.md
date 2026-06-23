@@ -2,7 +2,7 @@
 
 - [Official Website](https://icpc.global/)
 - [Codeforces Gym](https://codeforces.com/gyms)
-- [icpcarchive](https://icpcarchive.github.io/)\
+- [icpcarchive](https://icpcarchive.github.io/)
 
 ## 2026 TUPC
 
